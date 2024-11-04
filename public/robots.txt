@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sparkling-youtiao-345a35.netlify.app/sitemap.xml
